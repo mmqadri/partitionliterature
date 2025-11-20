@@ -1,6 +1,6 @@
 title: Cities and Regions
 layout: cloud
 permalink: /cities.html
-cloud-fields: settings
+cloud-fields: setting
 cloud-min: 
 cloud-stopwords:
