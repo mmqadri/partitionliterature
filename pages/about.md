@@ -16,7 +16,9 @@ credits: true
 
 The Indian subcontinent endured a rushed division, bringing about generations of trauma and death as communities were forced to uproot their lives when the British Empire drew a dividing line through a map. The line drawn by the foreign power brought division between the land and its people. Regions of cultural value were split, Punjab, Bengal, and what is now one of the most militarized zones in the world, Kashmir. In 1947, independent India and Pakistan were born. During and after the partition of the region, millions of people left their homes to move to the area that that was assigned to their religion. Muslims moved to Pakistan and East Pakistan (Now Bangladesh) and Hindus and Sikhs moved to India. 
 
-Storytelling has been a way to document and share experiences for centuries. This collection takes a look at the stories that have come out of the horrific events of partition. What was life like before, after, and during. What happened to the people that migrated, and where did they migrate to. What happened to the people that did not migrate, and why didn’t they. Through these fictional stories, the authors are able to reinterpret their own experiences, as well as the experiences of their parents and grandparents who have lived through Partition. 
+Storytelling has been a way to document and share experiences for centuries. This collection takes a look at the stories that have come out of the horrific events of partition. What was life like before, after, and during. What happened to the people that migrated, and where did they migrate to. What happened to the people that did not migrate, and why didn’t they. Through these fictional stories, the authors are able to reinterpret their own experiences, as well as the experiences of their parents and grandparents who have lived through Partition.
+
+This collection also presents additional contextual pages that the authors provided in their books including, frontispieces, dedication pages, and epigraphs.
  
 
 
