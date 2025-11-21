@@ -21,7 +21,8 @@ Storytelling has been a way to document and share experinces for centuries. This
 
 ### For further reading and related projects on the topic of partition: 
 
-https://www.1947partitionarchive.org/ - 1947partitionarchive is an ongoing project dedicated to collecting the oral history of first hand experiences of partition. 
+#### https://www.1947partitionarchive.org/ - 1947partitionarchive is an ongoing project dedicated to collecting the oral history of first hand experiences of partition. 
+#### _The Other Side of Silence _ by Urvashi Butalia - Through interviews conducted over a ten-year period and an examination of diaries, letters, memoirs, and parliamentary documents, Butalia asks how people on the margins of history—children, women, ordinary people, the lower castes, the untouchables—have been affected by this upheaval. To understand how and why certain events become shrouded in silence, she traces facets of her own poignant and partition-scarred family history before investigating the stories of other people and their experiences of the effects of this violent disruption.
 
 
 
