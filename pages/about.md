@@ -19,7 +19,7 @@ Pakistan and Indian endured a rushed division, bringing about generations of tra
 Storytelling has been a way to document and share experinces for centuries. This collection takes a look at the stories that have come out of the horrific events of partition. What was life like before, after, and during. What happened to the people that migrated, and where did they migrate to. What happened to the people that did not migrate, and why didn't they. Through these fictional stories, the authors are able to reinterpret their own experiences, as well as the experiences of their parents and grandparents who have lived through Partition. 
 
 
-###For further reading on the topic of partition: 
+### For further reading on the topic of partition: 
 
 
 
