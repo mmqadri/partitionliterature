@@ -14,14 +14,16 @@ credits: true
 
 ## About the Collection
 
-The Indian subcontinent endured a rushed division, bringing about generations of trauma and death as communites were forced to uproot their lives when the British Empire drew a dividing line through a map. The line drawn by the foreign power, created the countries of Pakistan and India. However, the dividing lines created more separtion as regions of cultural value were split, Punjab, Bengal, and what is now one of the most militarized zones in the world, Kashmir. During and after the partition of the region, millions of people left their homes to move to the area that that was assigned to their religion, Pakistan or India. Muslims moved to Pakistan and East Pakistan ( Now Bangladesh) and Hindus and Sikhs moved India.For years before colonization, religious communities across the Indian subcontinent lived among each other, everything changed when, colonization, partition, and migration took place. 
+The Indian subcontinent endured a rushed division, bringing about generations of trauma and death as communities were forced to uproot their lives when the British Empire drew a dividing line through a map. The line drawn by the foreign power brought division between the land and its people. Regions of cultural value were split, Punjab, Bengal, and what is now one of the most militarized zones in the world, Kashmir. In 1947, independent India and Pakistan were born. During and after the partition of the region, millions of people left their homes to move to the area that that was assigned to their religion. Muslims moved to Pakistan and East Pakistan (Now Bangladesh) and Hindus and Sikhs moved to India. 
 
-Storytelling has been a way to document and share experinces for centuries. This collection takes a look at the stories that have come out of the horrific events of partition. What was life like before, after, and during. What happened to the people that migrated, and where did they migrate to. What happened to the people that did not migrate, and why didn't they. Through these fictional stories, the authors are able to reinterpret their own experiences, as well as the experiences of their parents and grandparents who have lived through Partition. 
+Storytelling has been a way to document and share experiences for centuries. This collection takes a look at the stories that have come out of the horrific events of partition. What was life like before, after, and during. What happened to the people that migrated, and where did they migrate to. What happened to the people that did not migrate, and why didn’t they. Through these fictional stories, the authors are able to reinterpret their own experiences, as well as the experiences of their parents and grandparents who have lived through Partition. 
+ 
 
 
 #### For further reading and related projects on the topic of partition: 
 
 https://www.1947partitionarchive.org/ - 1947partitionarchive is an ongoing project dedicated to collecting the oral history of first hand experiences of partition. 
+
 _The Other Side of Silence _ by Urvashi Butalia - Through interviews conducted over a ten-year period and an examination of diaries, letters, memoirs, and parliamentary documents, Butalia asks how people on the margins of history—children, women, ordinary people, the lower castes, the untouchables—have been affected by this upheaval. To understand how and why certain events become shrouded in silence, she traces facets of her own poignant and partition-scarred family history before investigating the stories of other people and their experiences of the effects of this violent disruption.
 
 
