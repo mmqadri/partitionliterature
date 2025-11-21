@@ -98,5 +98,6 @@ coll075,coll021,thebookofeverlastingthings.jpg,The Book of Everlasting Things,Aa
 coll076,coll022,thenightdiary.jpg,The Night Diary,Veera Hiranandani,2018,,pakistan; india; hindu; train; map; frontise piece;,"Monroe County Public Library, Bloomington, IN",Image;StillImage,image/jpeg,,,
 coll077,coll023,thedogoftithwal.jpg,The Dog of Tithwal,Saadat Hasan Manto,2021,,pakistan; india; hindu; muslim; sikh;,"Lilly Library, Bloomington, In",Image;StillImage,image/jpeg,,,
 coll078,,partitions.jpg,Partitions,Amit Majmudar,2011,,train; punjab; hindu; muslim; sikh; pakistan; india,"Monroe County Public Library, Bloomington, IN",Image;StillImage,compound_object,,,
-coll079,coll079,partitionsepigraph.jpg,Partitions,Amit Majmudar,2011,,epigraph,"Monroe County Public Library, Bloomington, IN",Image;StillImage,image/jpeg,,,
-coll080,coll080,partitions.jpg,Partitions,Amit Majmudar,2011,,train; punjab; hindu; muslim; sikh; pakistan; india,"Monroe County Public Library, Bloomington, IN",Image;StillImage,image/jpeg,,,
+coll079,coll078,partitionsepigraph.jpg,Partitions,Amit Majmudar,2011,,epigraph,"Monroe County Public Library, Bloomington, IN",Image;StillImage,image/jpeg,,,
+
+coll080,coll078,partitions.jpg,Partitions,Amit Majmudar,2011,,train; punjab; hindu; muslim; sikh; pakistan; india,"Monroe County Public Library, Bloomington, IN",Image;StillImage,image/jpeg,,,
